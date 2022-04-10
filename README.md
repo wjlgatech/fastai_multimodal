@@ -39,3 +39,5 @@ Check out this notebook [here](https://github.com/wjlgatech/fastai-multimodal/bl
 - AWS Autogluon multimodal benchmark data: https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-multimodal.html
 
 - AutoML multimodal benchmark https://github.com/sxjscience/automl_multimodal_benchmark
+
+- CovidXrayNet: tabular + image https://github.com/MaramMonshi/CovidXrayNet
