@@ -24,7 +24,7 @@ Every iteration, I am aiming to make this package 5% better, w.r.t.
 
 ## Wanna contribute?
 
-Check out this notebook [here](https://github.com/wjlgatech/fastai-multimodal/blob/main/nbs/fastai_multimodal.ipynb). Any advices and comments are welcomed. Please shot me an email [here](wjlgatech@gmail.com).
+Check out these notebooks [here](https://github.com/wjlgatech/fastai_multimodal/blob/master/nbs/fastai_multimodal.ipynb) and [here](https://github.com/wjlgatech/fastai-multimodal/blob/main/nbs/fastai_multimodal.ipynb). Any advices and comments are welcomed. Please shot me an email [here](wjlgatech@gmail.com).
 
 ## Credits & References:
 
