@@ -41,3 +41,4 @@ Check out these notebooks [here](https://github.com/wjlgatech/fastai_multimodal/
 - AutoML multimodal benchmark https://github.com/sxjscience/automl_multimodal_benchmark
 
 - CovidXrayNet: tabular + image https://github.com/MaramMonshi/CovidXrayNet
+- VectorHub's image encoder https://github.com/RelevanceAI/vectorhub/tree/main/vectorhub/encoders/image
